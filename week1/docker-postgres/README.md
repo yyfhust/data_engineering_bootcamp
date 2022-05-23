@@ -105,6 +105,15 @@ docker run -it --network=pg-network taxi_ingest:v001 \
 ```
 
 
+# 7. docker compose
+
+```
+docker-compose up ## with -d : detached mode  
+
+docker-compose down ## shut down
+```
+
+
 
 
 
